@@ -1,0 +1,48 @@
+.right-links-list:after,.top-nav:after,.top-nav-menu:after,.two-col-left-pad:after,.two-col-right-pad:after,.main-header:after,.main-header-left-pad:after,.main-header-middle-pad:after,.main-header-right-pad:after,.right-bar:after{content:"";display:block;clear:both;font-size:0;text-decoration:none;visibility:hidden;text-indent:-999999px}
+.headerHeight{min-height:100px;height:auto !important;height:100px;position:relative;left:0;top:0}
+.fl{float:left}
+.light-bg,.char,.transition03{transition:all 0.3s ease-in-out;-webkit-transition:all 0.3s ease-in-out;-khtml-transition:all 0.3s ease-in-out;-moz-transition:all 0.3s ease-in-out;-o-transition:all 0.3s ease-in-out;-ms-transition:all 0.3s ease-in-out;-icab-transition:all 0.3s ease-in-out}
+.right-link-item-link,.right-link-item-link-fix,.right-link-item-link-txt,.top-nav-menu-item-link span,.top-nav-menu-item-link{transition:all 0.2s ease-in-out;-webkit-transition:all 0.2s ease-in-out;-khtml-transition:all 0.2s ease-in-out;-moz-transition:all 0.2s ease-in-out;-o-transition:all 0.2s ease-in-out;-ms-transition:all 0.2s ease-in-out;-icab-transition:all 0.2s ease-in-out}
+.cover{-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;-khtml-background-size:cover;-ms-background-size:cover;-icab-background-size:cover;background-size:cover}
+.cb{clear:both}
+::-moz-selection{background:#0880e7;color:#ffffff}
+::selection{background:#0880e7;color:#ffffff}
+body,html{margin:0;padding:0;width:100%;height:100%;font-size:0;cursor:default;border:0;text-align:center;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:subpixel-antialiased!important;-webkit-backface-visibility:hidden;-moz-backface-visibility:hidden;-ms-backface-visibility:hidden}
+.main-header{background:#ffffff;opacity:1}
+.two-col,.two-col-left,.two-col-right,.main-header,.main-header-left,.main-header-middle,.main-header-right{min-height:100px;height:auto !important;height:100px;position:relative;left:0;top:0}
+.main-header{width:100%;min-width:760px}
+.main-header-left{width:40.15873015873016%}
+.main-header-middle{width:19.68253968253968%}
+.main-header-right{width:40.15873015873016%}
+.main-header-left,.main-header-middle,.main-header-right{float:left;text-align:left}
+.two-col-left-pad,.two-col-right-pad,.main-header-left-pad,.main-header-middle-pad,.main-header-right-pad{clear:both}
+.two-col,.two-col-left,.two-col-right{position:relative;top:0;left:0}
+.two-col{width:100%;overflow:hidden}
+.two-col-left{width:210px;float:left}
+.two-col-right{width:100%;float:left;margin-right:-100%}
+.two-col-right-pad{padding-right:210px}
+.two-col-left-pad{padding-top:24px;padding-left:40px}
+.top-nav-menu,.top-nav-menu-item{list-style:none;font-size:0}
+.top-nav-menu-item{float:left}
+.right-link-item-link,.top-nav-menu-item-link{font-family:"Open Sans Semibold",sans-serif}
+.top-nav-menu-item-link{padding:0 13px;display:block;float:left;color:#3d3c3c;font-size:16px;text-decoration:none;text-transform:uppercase;height:100px;overflow:hidden}
+.top-nav-menu-item-link:hover{color:#fff;background:#017de6}
+.top-nav-menu-item-link{position:relative;top:0;left:0}
+.top-nav-menu-item-link span.top-nav-menu-item-link-txt{position:relative;top:0;left:0;display:block}
+.top-nav-menu-item-link span.top-nav-menu-item-link-txt:before{display:block;position:absolute;left:0;top:200%;content:attr(data-hover);font-weight:700;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}
+.top-nav-menu-item-link-pad{display:block;padding-top:43px}
+.top-nav-menu-item-link:hover .top-nav-menu-item-link-txt{-webkit-transform:translateY(-200%);-moz-transform:translateY(-200%);transform:translateY(-200%)}
+.top-nav-menu-item-fix{height:15px;overflow:hidden;display:block}
+.right-links-list,.right-link-item{list-style:none;font-size:0}
+.right-link-item{float:left;padding:34px 15px}
+.right-links-list{float:right;padding-right:25px}
+.right-link-item-link{overflow:hidden;text-decoration:none;color:#3d3c3c;font-size:16px;text-transform:uppercase;padding:8px 11px;display:block;border-radius:4px;-o-border-radius:4px;-icab-border-radius:4px;-khtml-border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;-ms-border-radius:4px;-goog-ms-border-radius:4px}
+.right-link-item-link-txt{display:block;position:relative;top:0;left:0}
+.with-bg{background:#0880e7;color:#fff}
+.icon-neovod-logo{display:block;width:151px;height:52px}
+.main-logo:hover .char,.light-bg{fill:#dcecff}
+.main-logo:hover .light-bg,.char{fill:#0880e7}
+.right-link-item-fix{height:14px;display:block;overflow:hidden;position:relative;top:0;top:0}
+.right-link-item-link-txt:before{display:block;position:absolute;left:0;top:200%;content:attr(data-hover);font-weight:700;-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}
+.right-link-item-link:hover .right-link-item-link-txt{-webkit-transform:translateY(-200%);-moz-transform:translateY(-200%);transform:translateY(-200%)}
+.with-bg:hover{background:#0058a3}

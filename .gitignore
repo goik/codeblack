@@ -1,0 +1,9 @@
+materials/
+materials-hard/
+mobile/
+mat/
+old/
+node_modules/
+#.gitexcludes
+#.gitignore
+norogum.zip

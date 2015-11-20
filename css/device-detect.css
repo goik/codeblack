@@ -1,0 +1,14 @@
+@media only screen and (max-width:866px){
+	.logo{-moz-transform:scale(0.4);-o-transform:scale(0.4);-webkit-transform:scale(0.4);transform:scale(0.4);-ms-transform:scale(0.4);-khtml-transform:scale(0.4);-icab-transform:scale(0.4)}
+}
+
+
+@media only screen and (max-width:1350px){
+	.main-home-page-fix-out-pad{padding:0px 100px}
+}
+
+
+@media only screen and (max-width:918px){
+	.FILM-PAGE-INNER-PAD,.film-cover-place-fix-out-pad{padding:0px 30px}
+}
+
