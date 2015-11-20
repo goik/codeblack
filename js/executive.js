@@ -1,5 +1,8 @@
 $(document).ready(function() {
 
+
+    // FAQS JS
+
     var elementHeight = new Array();
     var doit;
 
@@ -9,15 +12,15 @@ $(document).ready(function() {
         doit = setTimeout(resizedw, 100);
     });
 
-/*
-    $(window).resize(function() {
-        $(".faqs-listing-item").each(function(index) {
-            elementHeight[index] = parseInt($(this).find(".faqs-listing-item-conetnet-fix-height").css("height")) + 70;
-            clearTimeout(doit);
-            doit = setTimeout(resizedw, 100);
+    /*
+        $(window).resize(function() {
+            $(".faqs-listing-item").each(function(index) {
+                elementHeight[index] = parseInt($(this).find(".faqs-listing-item-conetnet-fix-height").css("height")) + 70;
+                clearTimeout(doit);
+                doit = setTimeout(resizedw, 100);
+            });
         });
-    });
-*/
+    */
 
     $("body .faqs-listing-item").each(function(index){
         fixHeight=parseInt($(this).find(".height-crop").css("height"));
@@ -103,6 +106,10 @@ $(document).ready(function() {
     $("body").on("click",".faqs-listing-item",function(){
         return false;
     });
+
+
+    // END FAQS JS
+
 
     //read-more-cell-position
 
